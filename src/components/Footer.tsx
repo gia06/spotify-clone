@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Footer() {
   return (
-    <div className="flex justify-between items-center p-3 col-span-3 text-left bg-gradient-to-r from-purple-600 to-blue-400 text-base font-normal ">
+    <div className="flex justify-between items-center h-[66px] p-3 col-span-3 text-left bg-gradient-to-r from-purple-600 to-blue-400 text-base font-normal absolute bottom-2 w-full ">
       <div>
         <p data-encore-id="type" className="tracking-widest">
           PREVIEW OF SPOTIFY
